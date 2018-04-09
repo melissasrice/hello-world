@@ -1,2 +1,4 @@
 # hello-world
-melissa's first toe dip into the github ocean
+
+Hello to whoever might read this!
+(why ARE you reading this, BTW?)
